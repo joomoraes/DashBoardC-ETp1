@@ -13,8 +13,8 @@ int main (void)
   soma = a + b;
   //Efetua adição de a com b e armazena na variável soma
   
-  printf("O valor da soma = %d\n", soma); //Mostra mensagem com o resultado
+  printf("O valor da soma = %d\n", soma); //Mostra dfasfb sjfnsdmensagem com o resultado
   
   system ("pause");
   return(0);
-}
+}sfsdfsafsdfsdfdsfdsf
